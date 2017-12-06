@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title></title>
+		<title>This is  a test script</title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
 	<link rel="stylesheet" type="text/css" href="css/style.css" >
 	</head>

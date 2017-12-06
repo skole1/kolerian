@@ -20,12 +20,12 @@
 </head>	
 	<body>
 		<div id='container'>
-			<?php include_once('incs/header.php')?>
-			<?php include_once('incs/nav.php')?>
+			<?php //include_once('incs/header.php')?>
+			<?php //include_once('incs/nav.php')?>
 			
 			<div id='operations'>
 				<b>:: You login as:: </b>
-				<a href='adminlogin.php'>Administrator</a><br />
+				<a href='adminlogin.php'>Admin</a><br />
 				
 				<br/>
 				
