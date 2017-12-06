@@ -9,30 +9,6 @@
 	<body>
 	<?php
 
-$class = $semester = $course =  $course_tite = null; //declare vars
-
-$conn = mysql_connect('localhost', 'root', '');
-$db = mysql_select_db('timetable',$conn);
-
-if(isset($_GET["class"]) && is_numeric($_GET["class"]))
-{
-    $class = $_GET["class"];
-}
-
-if(isset($_GET["semester"]) && is_numeric($_GET["semester"]))
-{
-    $semester = $_GET["semester"];
-}
-
-if(isset($_GET["course"]) && is_numeric($_GET["course"]))
-{
-    $course = $_GET["course"];
-}
-
-if(isset($_GET["course_title"]) && is_numeric($_GET["course_title"]))
-{
-    $course = $_GET["course_title"];
-}
 
 ?>
 
