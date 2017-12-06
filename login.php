@@ -8,6 +8,7 @@
 <html>
 	<head>
 		<title>Secure Login</title>
+		<!--I added comment in login page-->
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" >
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
