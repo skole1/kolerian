@@ -13,7 +13,7 @@
 ?>
 <html>
 <head>
-	<title>HOME PAGE </title>
+	<title>trying change here </title>
 	<link rel="stylesheet" type="text/css" href="bootstrap.min.css" >
 	<link rel="stylesheet" type="text/css" href="css/style.css" >
 	
